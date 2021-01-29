@@ -16,7 +16,11 @@ TWELITE 無線マイコンの回路・基板設計（KiCAD 用データ）です
 以下、設計データです。各フォルダ内の記述を参照してください。
 
 * [TWELITE_REV_F_ANT](TWELITE_REV_F_ANT) - 逆F型パターンアンテナ設計例
+  ![](TWELITE_REV_F_ANT/img_kicad.png)
+
 * [TWELITE_SMA_CONN](TWELITE_SMA_CONN) - SMAコネクタ実装用基板設計例
+  ![](TWELITE_SMA_CONN/img_kicad.png)
+
 
 
 

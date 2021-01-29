@@ -41,22 +41,19 @@ SMAコネクタは無線など高周波で良く用いられるもので、ア�
 
  - 回路図部品データ、フットプリントデータについては上記バージョンを前提としています。より旧いバージョンでは部品データなどが参照できない可能性もあります。
    
- - フットプリントデータを用意しています。必要に応じてこちらを参照するようにKiCAD を設定してください。
+ - フットプリントデータを用意しています。こちらを参照するようにKiCAD を設定してください。
    
 
 `../Library/MonoWireless.pretty`
 
 
 
-## [参照リンク]
+## [設計について]
 
-  設計詳細などは、参照リンクを参照してください。
+以下のリンク先文書をご覧ください。
 
- - SMAコネクタ
-   https://twelite.gitbook.io/general/radio-cert/design-sma-conn
- - お客様設計・実装のRF回路・アンテナ
-   https://twelite.gitbook.io/general/radio-cert/customer-design
- - モノワイヤレスソフトウェア使用許諾契約書 (MW-SLA)
-   https://twelite.gitbook.io/general/license/mw-sla
+* SMAコネクタ
+  https://twelite.gitbook.io/general/radio-cert/design-sma-conn
 
-   
+
+
