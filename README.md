@@ -5,7 +5,7 @@ TWELITE 無線マイコンの回路・基板設計（KiCAD 用部品データ）
 
 ## データのダウンロードについて
 
-GitHub画面上で [Code] ボタンをクリックして [Download ZIP] を選択してください。
+この画面上で [Code] ボタンをクリックして [Download ZIP] を選択してください。
 
 
 
