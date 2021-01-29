@@ -1,0 +1,107 @@
+﻿            MONO WIRELESS SOFTWARE LICENSE AGREEMENT
+            
+  VERSION 1, 8-DEC-2016 (MW-SLA-1E)
+  Copyright (C) Mono Wireless Inc.
+
+    This is an agreement (“Agreement”) between Mono Wireless Inc.
+(“Licensor”) and Customer (“Licensee”), who is being licensed to use
+Licensor software products (“Licensed Products”).
+
+    1.	DIFINITIONS
+    1-1 “Licensed Products” means a set provided by Licensor as source
+code, library, script file, utility, manual and others.
+    1-2 “Intellectual Property Right” means all rights in and to any
+copyright, patent or any such application, trademark, know-hows,
+trade secrets and all other rights and their legal fruits, resulting
+from intellectual activity.
+
+    2. INTELLECTUAL PROPERTY RIGHTS
+    All Intellectual Property Rights over and in respect of Licensed
+Products are owned by Licensor. The Licensee does not acquire any
+rights of ownership in Licensed Products.
+
+    3. LICENSE 
+    Subject to all of the terms and conditions of this Agreement,
+Licensor grants to the Licensee non-exclusive license under following
+conditions. 
+    (1) To use Licensed Products in the system using a wireless
+microcomputer manufactured by the Licensor. 
+    (2) To build and run the source code of Licensed Products on a
+wireless microcomputer manufactured by the Licensor. 
+    (3) To modify, change, translate, adapt or create derivative
+works to all or part of the source code of Licensed Products. 
+    (4) To reproduce and distribute (including commercial purposes)
+the source code (including 3(3)) of Licensed Products along with the
+copy of this Agreement.
+
+    4. LIMITATION OF THE LICENSE Licensee shall not attempt
+activities described below. 
+    (1) To build and/or run the source code of Licensed Products
+(including modified, changed, translated, adapted source code and
+derivative works as set forth in 3(2)) on a third-party processor.
+    (2) To use Licensed Products (include modified, changed,
+translated, adapted source code and derivative works as set forth in
+3(2)) in order to develop system on a third-party processor.
+    (3) To attempt to reverse engineering, decompile, disassemble and
+analysis, re-build or discovery of other source code and the
+underlying idea or algorithm of Licensed Products.
+
+    ５．DISCLAIMER 
+    5-1 LICENSOR, EXCEPT AS EXPRESSLY SET FORTH IN A SEPARATE
+AGREEMENT, SHALL　PROVIDE LICENSED PRODUCTS IN THE "AS IS". LICENSOR
+SHALL NOT GUARANTEE THAT THE QUALITY AND FUNCTIONALITY OF THIS
+PRODUCT IS TO CONFIRM TO THE LICENSEE OF THE INTENDED USE, OPERATES
+WITHOUT INTERRUPTION, ERROR OR INFRINGES ANY INTELLECTUAL PROPERTY
+RIGHTS OF ANY THIRD PARTIES AND THAT THERE IS NO BUGS AND PROBLEMS.
+LICENSOR SHALL NOT ASSUME ANY WARRANTY TO LICENSED PRODUCTS. 
+    5-2 LICENSOR SHALL NOT BE LIABLE AGAINST DIRECT, INDIRECT,
+CONSEQUENTIAL, ACCIDENTAL OR ANY DAMAGE THAT WAS ARISEN FROM THE
+NON-USE OR THE USE OF LICENSED PRODUCTS EVEN IF LICENSOR HAVE BEEN
+ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. IN THE EVENT THAT THE
+LICENSOR WAS SUPPOSED TO BEAR THE LIABILITY FOR DAMAGES, BY ANY
+REASON, SHALL BE UPPER LIMITED TO THE AMOUNT LICENSEE ACTUALLY PAID
+FOR LICENSED PRODUCTS.
+
+    6. ASSIGNMENT Licensee shall not assign any rights or obligations
+provided hereunder to any third party.
+
+    7 VALIDITY PERIOD Unless the period is specified separately or
+the licensor is cancelled in accordance with the provisions of the
+Agreement, the validity period shall be defined between start date to
+use Licensed Products, and terminate date to use Licensed Products.
+
+    8. CANCELLATION
+    8-1 In the event that Licensee breaches any of the provisions of
+this Agreement, Licensor shall have the right of cancel this
+Agreement. In this case, Licensee shall not be able to use Licensed
+Products, and Licensor shall not accept claim to refund of the amount
+paid by Licensee.
+    8-2 The Licensee shall have right of cancel this Agreement by
+dispose Licensed Products. In this case, the amount Licensee paid
+shall not be refunded by any reason.
+    8-3 Upon termination or cancellation of this Agreement, Licensee
+shall return to Licensor or destroy Licensed Products.
+
+    9. COMPLIANCE FOR EXPORTATION Licensee shall not attempt to ship,
+transfer, or re-export Licensed Product to other countries that are
+prohibited in the laws of Japan and shall comply with the law on the
+export of Japan. If the Licensee has exported or used Licensed
+Products to the outside of Japan, Licensee shall bear all the
+responsibilities arising from the act.
+
+    10. GENERAL PROVISIONS
+    10-1 This Agreement shall constitute the entire agreement between
+the parties with respect to any and all subjects and shall supersede
+all previous negotiations, understandings and agreements the parties
+thereto.
+    10-2 This Agreement is executed in Japanese edition, and all
+correspondence between the parties shall be in Japanese. In case,
+there are contradictions between Japanese Agreement and English
+Translation, Japanese agreement will be applied.
+    10-3 This Agreement shall be governed by and construed in
+accordance with the laws of Japan.
+    10-4 The parties agree that any disputes arising out of this
+Agreement shall be brought to before the Yokohama District Court of
+Japan for the first instance.
+
+                                                                    EOL
