@@ -19,7 +19,7 @@ U 1 1 5FFEB28A
 P 5000 2350
 F 0 "U1" H 5000 3431 50  0000 C CNN
 F 1 "TWE-L-WX" H 5000 3340 50  0000 C CNN
-F 2 "MonoWireless:MonoWireless_TWELITE-SMD_SMA-Connector" H 5000 1250 50  0001 C CNN
+F 2 "MonoWireless:MonoWireless_TWELITE_SMD_w_RevF_Ant" H 5000 1250 50  0001 C CNN
 F 3 "https://www.mono-wireless.com/jp/products/TWE-LITE/MW-PDS-TWELITE-JP.pdf" H 5750 1350 50  0001 C CNN
 	1    5000 2350
 	1    0    0    -1  
@@ -65,8 +65,6 @@ Text Label 7500 2950 2    50   ~ 0
 SET
 Text Notes 7000 1950 0    118  ~ 24
 TWELITE PAL 7P HEADER\n
-Text Notes 7300 3300 0    50   ~ 0
-PLACE AT EDGE OF BOARD.\n*** MUST NOT PLUG TWELITE R2 ***
 Wire Wire Line
 	4300 2050 3750 2050
 Wire Wire Line
