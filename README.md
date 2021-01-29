@@ -3,6 +3,12 @@ TWELITE 無線マイコンの回路・基板設計（KiCAD 用部品データ）
 
 
 
+## データのダウンロードについて
+
+GitHub画面上で [Code] ボタンをクリックして [Download ZIP] を選択してください。
+
+
+
 ## KiCADについて
 
 [Library](./Library) - フットプリントライブラリ (KiCAD上で参照できるように設定してください)。
@@ -18,19 +24,13 @@ KiCad 5.1.8 にて作成しています。回路図部品データ、フット�
 |                                            |                                                              |
 | ------------------------------------------ | ------------------------------------------------------------ |
 |                                            |                                                              |
-| [逆F型パターンアンテナ](TWELITE_REV_F_ANT) | 逆F型パターンアンテナは、プリント基板上で構成される小型のアンテナです。逆F型のエレメント部分とモジュール直下にあるGND面により構成されます。GND面の大きさは20x20mm～40x40mm程度が最適です。 |
+| [逆F型パターンアンテナ](TWELITE_REV_F_ANT) | フォルダ名：TWELITE_REV_F_ANT<br />注意事項：https://twelite.gitbook.io/general/radio-cert/design-revf-ant |
 | ![](TWELITE_REV_F_ANT/img_kicad.png)       | ![](TWELITE_REV_F_ANT/img_mod.png)                           |
-| 画面例                                     | 実装例                                                       |
+|                                            | 逆F型パターンアンテナは、プリント基板上で構成される小型のアンテナです。逆F型のエレメント部分とモジュール直下にあるGND面により構成されます。GND面の大きさは20x20mm～40x40mm程度が最適です。 |
 |                                            |                                                              |
-| [SMAコネクタ実装用基板](TWELITE_SMA_CONN)  | SMAコネクタは無線など高周波を伝送する同軸ケーブルを接続するために用います。通常はアンテナや計測器を接続します。 |
+| [SMAコネクタ実装用基板](TWELITE_SMA_CONN)  | フォルダ名：TWELITE_SMA_CONN<br />注意事項：https://twelite.gitbook.io/general/radio-cert/design-sma-conn |
 | ![](TWELITE_SMA_CONN/img_kicad.png)        | ![](TWELITE_SMA_CONN/img_mod.png)                            |
-| 画面例                                     | 実装例                                                       |
-
-
-
-## ライセンス
-
-[モノワイヤレスソフトウェア使用許諾契約書 (MW-SLA)](License)
+|                                            | SMAコネクタは無線など高周波を伝送する同軸ケーブルを接続するために用います。通常はアンテナや計測器を接続します。 |
 
 
 
@@ -57,11 +57,7 @@ KiCad 5.1.8 にて作成しています。回路図部品データ、フット�
 
 
 
+## ライセンス
 
-## 参照リンク
+[モノワイヤレスソフトウェア使用許諾契約書 (MW-SLA)](License)
 
- - お客様設計・実装のRF回路・アンテナ
-   https://twelite.gitbook.io/general/radio-cert/customer-design
-
-   
-   
