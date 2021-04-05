@@ -23,6 +23,8 @@
 ## [設計について]
 以下のリンクを参照ください。
 
+* 逆F型アンテナガイド [[PDF, 日本語](RefF_GuideJ.pdf)]
+
  - 逆F型アンテナ
    https://twelite.gitbook.io/general/radio-cert/design-revf-ant
 
